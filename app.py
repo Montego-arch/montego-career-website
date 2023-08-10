@@ -6,19 +6,19 @@ JOBS = [
     'id':1,
     'title':'Data Analyst',
     'location': 'Lagos, Nigeria',
-    'salary': '$8,000'
+    'salary': '$80,000'
   },
     {
     'id':2,
     'title':'Data Scientist',
     'location': 'Enugu State, Nigeria',
-    'salary': '$10,000'
+    'salary': '$180,000'
   },
     {
     'id':3,
     'title':'DevOps Engineer',
     'location': 'Florida, USA',
-    'salary': '$12,000'
+    'salary': '$120,000'
   },
     {
     'id':4,
